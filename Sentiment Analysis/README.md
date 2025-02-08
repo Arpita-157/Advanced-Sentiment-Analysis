@@ -32,7 +32,7 @@ nltk.download('vader_lexicon')
 Run the Python script:
 
 ```bash
-python sentiment_analyzer.py
+python quiz.py
 ```
 
 ## 📌 How It Works
