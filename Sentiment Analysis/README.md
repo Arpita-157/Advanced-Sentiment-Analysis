@@ -45,15 +45,7 @@ python quiz.py
    - Generates a bar chart for sentiment distribution.
 4. **Reset Button:** Clears the input and results for new analysis.
 
-## 📷 Screenshots
 
-(Add screenshots of your application here)
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
----
 
 👨‍💻 **Developed by:** Arpita Panda\
 Data Scientist & Software Developer
